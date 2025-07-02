@@ -78,7 +78,3 @@ It is designed to help **job seekers, recruiters, and analysts** understand the 
    - `Job Dashboard`
    - `Trend Dashboard`
 3. Use **slicers and filters** to interact with charts dynamically.
-
----
-
-## 📌 FOLDER STRUCTURE
